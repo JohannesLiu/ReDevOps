@@ -14,4 +14,4 @@
 [前言](Prefix/README.md)
 
 # [第一章：初步](Chapter1/1.0-Prelimary.md)
-  - [1.1 ReDevOps](Chapter1/1.0-Introduction-to-ReDevOps.md)
+  - [1.1 ReDevOps](Chapter1/1.1-Introduction-to-ReDevOps.md)
