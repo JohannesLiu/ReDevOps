@@ -1,3 +1,14 @@
+<!--
+ * @Author: Johannes Liu
+ * @LastEditors: Johannes Liu
+ * @email: iexkliu@gmail.com
+ * @github: https://github.com/johannesliu
+ * @Date: 2023-03-28 10:16:41
+ * @LastEditTime: 2023-04-18 21:18:36
+ * @motto: Still water run deep
+ * @Description: Modify here please
+ * @FilePath: \ReDevOps\README.md
+-->
 # ReDevOps
 
 ## 前言
@@ -11,4 +22,5 @@ ReDevOps实际上是三个单词的简称的连接。他们分别是：Research�
 简而言之，ReDevOps是一种结合了科学研究，软件开发和运维的方法论和实践，它可以帮助从业人员高效地完成科研和工业项目的学习，开发与管理。在当今的快速发展的科技领域，掌握ReDevOps能力可以让人们在有限的时间内做更多有价值的事情，从而在职场上获得更多的机会和成功。通过本书的总结和分享，我希望能够帮助更多的人掌握ReDevOps能力，让学习和科研变地更高效。
 
 Johannes Liu
+
 2023年2月22日
